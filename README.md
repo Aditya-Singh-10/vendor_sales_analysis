@@ -23,7 +23,7 @@ The project covers the full analytics workflow — from raw CSV ingestion into a
 - Statistically validate performance differences between vendor groups
 - Build an interactive Power BI dashboard for ongoing vendor performance tracking
 
----
+--
 
 ## 🛠️ Tech Stack
 
