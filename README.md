@@ -102,7 +102,3 @@ Built by **Aditya Singh** as part of a data analyst portfolio, demonstrating end
 - [LinkedIn] - www.linkedin.com/in/aditya-singh-x
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
